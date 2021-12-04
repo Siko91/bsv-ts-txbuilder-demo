@@ -1,0 +1,17 @@
+{
+  "name": "bsv-ts-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/bsv": "https://github.com/Siko91/bsv-js-typescript-definitons.git",
+    "@types/node": "^16.11.11",
+    "bsv": "2.0.10",
+    "typescript": "^4.5.2"
+  }
+}
