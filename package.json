@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@types/bsv": "https://github.com/Siko91/bsv-js-typescript-definitons.git",
+    "@types/bsv": "https://github.com/Siko91/bsv-js-typescript-definitons.git#3601281960f1399c27ad9de4bc4a5f1aae42752a",
     "@types/node": "^16.11.11",
     "bsv": "2.0.10",
     "typescript": "^4.5.2"
