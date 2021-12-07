@@ -4,6 +4,8 @@ export function logInfoAboutTx(title:string, tx:Tx) {
     console.log(`\n`)
     console.log(`\n`)
     console.log(`--- ${title} ---`)
+    console.log(`TXID:\n${tx.id()}`)
+    console.log(`---`)
     console.log(`HEX:\n${tx.toHex()}`)
     console.log(`---`)
     console.log(`IN:`)
