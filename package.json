@@ -9,8 +9,10 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@types/axios": "^0.14.0",
     "@types/bsv": "https://github.com/Siko91/bsv-js-typescript-definitons.git#3601281960f1399c27ad9de4bc4a5f1aae42752a",
     "@types/node": "^16.11.11",
+    "axios": "^0.24.0",
     "bsv": "2.0.10",
     "typescript": "^4.5.2"
   }
